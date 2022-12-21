@@ -1,0 +1,8 @@
+Services	4982.36
+Legal	1884.38
+Engineering	3920.44
+Legal	3569.87
+Engineering	3468.33
+Training	968.06
+Support	2876.15
+Legal	760.00
